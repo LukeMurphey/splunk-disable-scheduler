@@ -1,0 +1,5 @@
+
+<project default="package" name="disable_scheduler">
+	<import file="basebuild.xml"/>
+</project>
+		
